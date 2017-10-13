@@ -22,12 +22,9 @@ body {
 }
 
 .container.banner {
-  margin-bottom: 80px;
+  margin-bottom: 100px;
 }
 
-.taco {
-  color: #d37210;
-}
 
 img {
   position: absolute;
@@ -78,7 +75,7 @@ img.profile {
 }
 
 .about {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 h5.random {
@@ -89,4 +86,9 @@ h5.random {
 
 img.love {
   position: relative;
+}
+
+blockquote {
+  margin: 40px 0;
+  float: right;
 }
