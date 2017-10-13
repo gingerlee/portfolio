@@ -49,6 +49,7 @@ img {
 .card {
   background: white;
   z-index: 0;
+  margin: 15px 0;
 }
 
 .card-img-top {
@@ -62,7 +63,7 @@ img {
 }
 
 
-/* About CSS */
+/* About Page CSS */
 img.profile {
   padding-left: 0;
   height: 250px;
