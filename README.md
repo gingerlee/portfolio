@@ -1,6 +1,6 @@
 # _Ginger's Portfolio_
 
-#### _A simple two page portfolio site for Ginger lee Kretschmer's portfolio, October 13, 2017_
+#### _A simple two-page portfolio site for Ginger lee Kretschmer's portfolio, October 13, 2017_
 
 #### By _**Ginger Lee Kretschmer**_
 
@@ -10,7 +10,7 @@ _This website is built from HTML and CSS using custom sytling and Bootstrap 4.0 
 
 ## Setup/Installation Requirements
 
-* _Clone this repository and load the index.html in the web browser of your choice_
+* _Clone this repository and load the index.html in the web browser of your choice._
 
 ## Known Bugs
 
@@ -18,7 +18,7 @@ _Still working on best practice for styling for specific screen sizes._
 
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas or concerns, or you wish to make a contribution to the code, please contact me at kretschmons@gmail.com_
+_If you run into any issues or have questions, ideas or concerns, or you wish to make a contribution to the code, please contact me at kretschmons@gmail.com._
 
 ## Technologies Used
 
