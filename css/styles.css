@@ -9,9 +9,6 @@ body {
   z-index: 1;
 }
 
-.navbar-text {
-  font-family: 'Poiret One', cursive;
-}
 
 .jumbotron {
   position: relative;
@@ -41,7 +38,7 @@ img {
   margin-bottom: 30px;
 }
 
-h2.into {
+h2.intro {
   margin-top: 300px;
 }
 
@@ -56,16 +53,25 @@ h2.into {
   z-index: 1;
 }
 
+.container {
+  margin-bottom: 150px;
+}
+
 
 /* About CSS */
 img.profile {
   padding-left: 0;
   height: 250px;
   z-index: 1;
+  object-fit: cover;
 }
 
 .row.profile {
   background-color: #fff;
   position: absolute;
   z-index: 0;
+}
+
+.about {
+  margin-top: 30px;
 }
