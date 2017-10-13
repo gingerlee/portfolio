@@ -24,6 +24,10 @@ body {
   background: transparent;
 }
 
+.taco {
+  color: #d37210;
+}
+
 img {
   position: absolute;
   width: 100%;
@@ -47,14 +51,21 @@ h2.into {
 }
 
 .card-img-top {
-  height: 400px;
+  height: 350px;
   position: relative;
   z-index: 1;
-
 }
+
 
 /* About CSS */
 img.profile {
-  width 25%;
+  padding-left: 0;
   height: 250px;
+  z-index: 1;
+}
+
+.row.profile {
+  background-color: #fff;
+  position: absolute;
+  z-index: 0;
 }
