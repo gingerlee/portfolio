@@ -1,7 +1,29 @@
+.navbar {
+  width: 100%;
+  opacity: 0.3;
+  position: fixed;
+  z-index: 1;
+}
+
+.navbar-text {
+  font-family: 'Poiret One', cursive;
+}
+
+.jumbotron {
+  position: relative;
+  z-index: 0;
+  background: transparent;
+  text-align: center;
+  padding-top: 27%;
+  color: #fff;
+  font-family: 'Poiret One', cursive;
+}
 
 
 img {
+  position: absolute;
   width: 100%;
   height: 800px;
   object-fit: cover;
+  z-index: -1;
 }
