@@ -85,3 +85,7 @@ h5.random {
   font-style: italic;
   color: #d37210;
 }
+
+img.love {
+  position: relative;
+}
