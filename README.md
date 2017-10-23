@@ -10,7 +10,7 @@ _This website is built from HTML and CSS using custom sytling and Bootstrap 4.0 
 
 ## Setup/Installation Requirements
 
-* _Clone this repository and load the index.html in the web browser of your choice._
+* _Enter this URL https://gingerlee.github.io/portfolio/ into the browser of your choice._
 
 ## Known Bugs
 
